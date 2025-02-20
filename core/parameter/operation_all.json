@@ -1,0 +1,63 @@
+{
+  "bg_index": 1,
+  "operator": [
+    {
+      "name": "insert",
+      "obj_index": 0,
+      "is_random": false,
+      "type": "",
+      "location": "",
+      "rotation": "",
+      "shift": "",
+      "scale": ""
+    },
+    {
+      "name": "delete",
+      "obj_index": 0,
+      "bg_index": 1,
+      "is_random": "",
+      "type": "",
+      "location": "",
+      "rotation": "",
+      "shift": "",
+      "scale": ""
+    },
+    {
+      "name": "scale",
+      "obj_index": 0,
+      "bg_index": 1,
+      "is_random": "",
+      "type": "",
+      "location": "",
+      "rotation": "",
+      "shift": "",
+      "scale": 1.0
+    },
+    {
+      "name": "rotate",
+      "obj_index": 0,
+      "bg_index": 1,
+      "is_random": "",
+      "type": "",
+      "location": "",
+      "rotation": 9,
+      "shift": "",
+      "scale": ""
+    },
+    {
+      "name": "translate",
+      "obj_index": 0,
+      "bg_index": 1,
+      "is_random": false,
+      "type": "absolute",
+      "location": "",
+      "rotation": "",
+      "shift": [
+        1,
+        2,
+        0
+      ],
+      "scale": ""
+    }
+  ]
+}

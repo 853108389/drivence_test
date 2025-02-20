@@ -1,0 +1,28 @@
+{
+  "dataset": "KITTI",
+  "weather": "sunny",
+  "bg_index": 7,
+  "vehicles": [
+    {
+      "obj_index": 2,
+      "location": [
+        40.1540785,
+        0.0703835,
+        -0.6927542723715305
+      ],
+      "rotation": -3,
+      "scale": 1
+    },
+    {
+      "obj_index": 1,
+      "location": [
+        35.1540785,
+        0.0703835,
+        -0.6927542723715305
+      ],
+      "rotation": 7,
+      "scale": 1
+    }
+  ],
+  "nums_vehicles": 2
+}
