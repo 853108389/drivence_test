@@ -15,10 +15,13 @@ This repository provides the code for the paper:
   <img src="https://github.com/853108389/drivence_test/blob/main/src/0_110_pc_labels_gen_virmot.gif" alt="GIF 2" width="48%">
 </div>
 
+<br>
 
 Drivence is a realistic driving sequence synthesis tool designed for testing multi-sensor fusion (MSF) perception systems. It can generate realistic driving sequences under various scenarios and evaluate the robustness of MSF perception systems in different traffic conditions. The framework consists of the following components:
 
 ![](https://github.com/853108389/drivence_test/blob/main/src/workflow.png)
+
+<br>
 
 ### **Occupancy Grid Mapping**  
 Drivence introduces an occupancy grid mapping module that generates an occupancy grid map from input point cloud data of the driving sequence.
