@@ -56,8 +56,8 @@ pip install -r requirements.txt
 
 To reproduce our experiments, the environment must be carefully configured for each system:  
 - For **DFmot** and **JMODT**, refer to the benchmarking code in the [`AI-MSF-Benchmark` repository](https://sites.google.com/view/ai-msf-benchmark/benchmark).  
-- For **YONTD**, follow the instructions in the [YONTD repository]().  
-- For **VirTrack**, follow the instructions in the ![VirTrack repository]().
+- For **YONTD**, follow the instructions in the [YONTD repository](https://github.com/wangxiyang2022/YONTD-MOT).  
+- For **VirTrack**, follow the instructions in the [VirTrack repository](https://github.com/hailanyi/3D-Multi-Object-Tracker).
 
 ---
 
