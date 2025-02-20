@@ -6,8 +6,15 @@ This repository provides the code for the paper:
 
 [[Website]](https://sites.google.com/view/drivence)
 
-![](https://github.com/853108389/drivence_test/blob/main/src/0_110_pic_labels_gen_virmot.gif)  
-![](https://github.com/853108389/drivence_test/blob/main/src/0_110_pc_labels_gen_virmot.gif)
+[//]: # (![]&#40;https://github.com/853108389/drivence_test/blob/main/src/0_110_pic_labels_gen_virmot.gif&#41;  )
+
+[//]: # (![]&#40;https://github.com/853108389/drivence_test/blob/main/src/0_110_pc_labels_gen_virmot.gif&#41;)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/853108389/drivence_test/blob/main/src/0_110_pic_labels_gen_virmot.gif" alt="GIF 1" width="48%">
+  <img src="https://github.com/853108389/drivence_test/blob/main/src/0_110_pc_labels_gen_virmot.gif" alt="GIF 2" width="48%">
+</div>
+
 
 Drivence is a realistic driving sequence synthesis tool designed for testing multi-sensor fusion (MSF) perception systems. It can generate realistic driving sequences under various scenarios and evaluate the robustness of MSF perception systems in different traffic conditions. The framework consists of the following components:
 
